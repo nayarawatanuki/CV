@@ -7,7 +7,6 @@
 > nayarawatanuki@gmail.com
 
 ## Objetivo
----
 Estagio na área de T.I.
 
 ## Formação

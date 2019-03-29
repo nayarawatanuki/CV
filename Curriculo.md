@@ -1,7 +1,7 @@
 # Nayara Marinho Watanuki
 
 > - Brasileira, Solteira, 21 Anos
-> - Loteamento Residencial Paradiso, Rua Livorno, 83 
+> - Loteamento Residencial Paradiso - Rua Livorno, 83, 
 > Bairro Itapema SP - Itatiba 13255-433
 > - Contato: (11) 94493-3191
 > nayarawatanuki@gmail.com

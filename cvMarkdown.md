@@ -10,13 +10,11 @@ nayarawatanuki@gmail.com
 Estagio na área de T.I.
 
 ## Formação
----
 - Segundo Grau Completo – Objetivo Itatiba - Conclusão em: 2016
 - Graduação em Instituto Federal de Educação, Ciência e Tecnologia de SP – Bragança Paulista – Conclusão em: 2020
 **CURSO:** Análise e Desenvolvimento de Sistemas
 
 ## Qualificações e Atividades Complementares
----
 - Windows e Mac;
 - Formatação, reinstalação e configuração;
 - Linguagens: C#, Java, SQL, HTML/CSS;
@@ -26,11 +24,9 @@ Estagio na área de T.I.
 - Aprendizado rápido.
 
 ## Informações Adicionais
----
 - Interesse nas áreas de T.I ou Administração; 
 - Disponibilidade: período matutino/vespertino
 
 ## Idiomas
----
 - Inglês (intermediário);
 - Espanhol (básico).

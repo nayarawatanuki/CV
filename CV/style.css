@@ -3,10 +3,6 @@ section h3 {
     text-align: center;
 }
 
-.A4 {
-    width: 50vw;
-}
-
 .cv__title {
     margin-bottom: 0;
 }
@@ -31,4 +27,16 @@ section h3 {
 
 .experiences-list__nkey, .mastersense-level2__list, .mastersense-level1__list, .academic-education__list2 {
     list-style-type: "-  ";
+}
+
+@media screen and (min-width: 0) {
+    .A4 {
+        width: 100vw;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .A4 {
+        width: 50vw;
+    }
 }

@@ -1,6 +1,16 @@
 .card {
     display: flex;
     justify-content: center;
-    margin: 4rem;
-    
+}
+
+@media screen and (min-width: 0) {
+    .card {
+        margin: 2rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .card {
+        margin: 4rem;
+    }
 }

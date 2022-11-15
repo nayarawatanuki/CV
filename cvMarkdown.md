@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=chrome">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Nayara Watanuki</title>
+
+    <link rel="stylesheet" href="../style/global.css">
+    <link rel="stylesheet" href="../style/card.css">
+    <link rel="stylesheet" href="../style/box.css">
+    <link rel="stylesheet" href="../style/menu/menu.css">
+    <link rel="stylesheet" href="../style/menu/menu__list.css">
+    <link rel="stylesheet" href="../style/menu/menu__link.css">
+    <link rel="stylesheet" href="../style/icons.css">
+
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://kit.fontawesome.com/3aed3665a4.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <main>
+        <card class="card">
+            <box class="box A4">
+                
+                <h1 class="cv__title">Nayara Marinho Watanuki</h1>
+                <span>
+                    <i class="fas fa-birthday-cake icons icons-cv"></i>
+                    <strong>Data de nascimento:</strong> 23/05/1997
+                </span>
+                <span>
+                    <i class="fas fa-id-card icons icons-cv"></i>
+                    <strong>CNH:</strong> Categoria B
+                </span>
+                <nav class="menu">
+                    <a href="https://goo.gl/maps/3Apsn7QNzkQ4NkHa8">
+                        <i class="fas fa-map-marker-alt icons icons-cv icons-link"></i>
+                    </a>
+                    <a href="mailto:nayarawatanuki@gmail.com">
+                        <i class="fas fa-envelope-square icons icons-cv icons-link"></i>
+                    </a>
+                    <a href="https://wa.me/message/OUBVPKV34I7KO1">
+                        <i class="fab fa-whatsapp-square icons icons-cv icons-link"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/nayarawatanuki/">
+                        <i class="fab fa-linkedin icons icons-cv icons-link"></i>
+                    </a>
+                    <a href="https://github.com/nayarawatanuki">
+                        <i class="fab fa-github-square icons icons-cv icons-link"></i>
+                    </a>
+                </nav>
+                
+                <section class="cv__goals">
+                    <h3>Objetivos Profissionais:</h3>
+                    <p>Atuar no setor de Tecnologia da Informação (T.I)</p>
+                </section>
+
+                <section class="cv__resume">
+                    <h3>Resumo Profissional:</h3>
+                    <p>Profissional graduada em Tecnológo em Análise e Desenvolvimento de Sistemas, pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Desde 2019 na área, obtive experiências profissionais ligadas à análise e conhecimento de metodologias ágeis. Gestão operacional via SAP e Salesforce. Participação na implementação de sistemas. Atuante na área de programação com conhecimentos em HTML, CSS, SASS, Chakra, Javascript, React, Next, Typescript, GitHub, Jira, SQL e AWS. Gestão de melhorias. Resultados mensuráveis presentes no CV. Participação em voluntariado. Inglês intermediário e espanhol básico.</p>
+                </section>
+
+                <section class="cv__experiences">
+                    <h3>Experiências Profissionais:</h3>
+                    <ul class="experiences__list">
+                        <li class="experiences-list__item">
+                            <strong>Desenvolvedora Front End Jr. / Nkey Soluções Tecnológicas - 01/2022 até 07/2022.</strong>
+                        </li>
+                        
+                        <ul class="experiences-list__nkey">
+                            <li>
+                                Profissional responsável pelo desempenho de tarefas ligadas à área de programação.
+                            </li>
+                            <li>
+                                Atuante no setor de front-end de projetos. Responsável pela gestão das tarefas via Jira, administrando projetos em grande escala. Versionamento de projetos (Git/GitHub). Manuseio e aplicações de linguagens como: Next, React, Typescript, CSS, SASS.
+                            </li>
+                        </ul>
+
+                        <li class="experiences-list__item">
+                            <strong>MasterSense Ingredientes Alimentícios - 05/2019 até 12/2021.</strong>
+                        </li>
+                        
+                        <ol reversed class="experiences-list__mastersense">
+                            <li class="mastersense__level2">
+                                <strong>Assistente de TI – 06/2021 até 12/2021.</strong>
+                            </li>
+                            
+                            <ul class="mastersense-level2__list">
+                                <li>
+                                    <strong>Resultados mensuráveis:</strong> Participação em 40% na implementação do sistema Salesforce. (CRM, o qual realizava gestão de pedidos. Compreensão de todo o escopo identificando e reparando problemas na fase de implementação. 
+                                    </br>Participação em 60% no projeto inicial de implementação do e-commerce da empresa (reuniões iniciais para entender o novo sistema que seria efetivado: VTEX).
+                                </li>
+                                <li>
+                                    Ativo envolvimento em melhorias no sistema SAP, bem como melhorias e estudo de viabilidade em processos gerenciais diversos, envolvendo a área financeira.
+                                </li>
+                            </ul>
+                            
+                            <li class="mastersense__level1">
+                                <strong>Estágio na área de T.I - 05/2019 até 06/2021.</strong>
+                            </li>
+                            
+                            <ul class="mastersense-level1__list">
+                                <li>
+                                    Profissional com habilidade na manutenção e configuração de equipamento/notebooks e backup de arquivos para 90% dos funcionários e equipe. Gerenciamento de inventários. Gestão do Software Milvus (controle de chamados). Participação no gerenciamento e suporte operacional em SAP.
+                                </li>
+                                <li>
+                                    Possibilidade de efetivação devido ao desempenho apresentado.
+                                </li>
+                            </ul>
+                        </ol>
+                    </ul>
+                </section>
+
+                <section class="cv__academic-education">
+                    <h3>Formação Acadêmica:</h3>
+                    <ul class="academic-education__list">
+                        <li>
+                            <strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong> / Local: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, 2021.
+                        </li>
+                        <ul class="academic-education__list2">
+                            <li>
+                                <strong>Voluntariado:</strong> Integrante da Iniciação Científica do IFSP do Campus de Bragança Paulista como pesquisadora voluntária do tema: Governança de T.I. na Administração Pública.
+                            </li>
+                        </ul>
+                    </ul>
+                </section>
+
+                <section class="cv__extracurricular-courses">
+                    <h3>Cursos Extracurriculares:</h3>
+                    <ul>
+                        <li>
+                            Desenvolvimento Web: HTML5, CSS3 e Javascript – Alura, 2022.
+                        </li>
+                        <li>
+                            Web: HTML, CSS, SASS, Chakra, Javascript, React, Next, Typescript, GitHub; (TCC) – IFSP, 2021.
+                        </li>
+                        <li>
+                            Outras linguagens: C, C#, Java – IFSP, 2021.
+                        </li>
+                        <li>
+                            Modelagem de Banco de Dados, MySQL Server, AWS – IFSP, 2021.
+                        </li>
+                        <li>
+                            Modelagem UML – IFSP, 2021.
+                        </li>
+                        <li>
+                            Engenharia/Arquitetura de Software: análise, levantamento de requisitos e metodologias ágeis - IFSP, 2021.
+                        </li>
+                        <li>
+                            Outros: Ambiente Windows e Mac (Formatação, reinstalação e configuração). Pacote Office ( Excel, Macro & VBA) - IFSP, 2021.
+                        </li>
+                    </ul>
+                </section>
+            </box>
+        </card>
+    </main>
+</body>
+</html>

@@ -1,0 +1,10 @@
+.box {
+    border: 1px solid #fe75a3;
+    border-radius: 1.5rem;
+    box-shadow: 10px 10px 10px 0 #f52c6f;
+    display: grid;
+    opacity: 4;
+    padding: 4rem;
+    text-align: center;
+    width: fit-content;
+}

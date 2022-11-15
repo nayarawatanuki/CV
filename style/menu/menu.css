@@ -1,0 +1,7 @@
+.menu {
+    display: inline-flexbox;
+}
+
+.menu-inline {
+    display: flex;
+}

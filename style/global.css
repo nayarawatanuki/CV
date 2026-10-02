@@ -20,6 +20,12 @@ body {
     margin-top: 0;
 }
 
+main {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
 a {
     color: #000000;
     cursor: pointer;

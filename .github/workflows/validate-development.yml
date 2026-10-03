@@ -1,0 +1,18 @@
+name: Validate development
+
+on:
+  push:
+    branches:
+      - "feat/**"
+      - "fix/**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    environment: development
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate site structure
+        run: test -f index.html

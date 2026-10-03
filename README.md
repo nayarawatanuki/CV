@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Nayara Watanuki - CV" src="https://raw.githubusercontent.com/nayarawatanuki/CV/master/img/logo%20art/CV.png"/>
+  <img alt="Nayara Watanuki - CV" src="https://raw.githubusercontent.com/nayarawatanuki/CV/master/img/logo-art/CV.png"/>
 </h1>
 
 ### Índice
